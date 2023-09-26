@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Continuar Eliminando</title>
+        <title>Eliminando</title>
     </head>
 
     <body>
